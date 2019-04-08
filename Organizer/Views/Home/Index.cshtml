@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script type="text/javascript">
+    var signe = -1;
+    var clignotementFading = function () {
+        var obj = document.getElementById('LblClignotant');
+        if (obj.style.opacity >= 0.76) {
+            signe = -1;
+        }
+        if (obj.style.opacity <= 0.05) {
+            signe = 1;
+        }
+        obj.style.opacity = (obj.style.opacity * 1) + (signe * 0.05);
+    };
+
+    // mise en place de l appel de la fonction toutes les 0.085 secondes
+    // Pour arrêter le clignotement : clearInterval(periode);
+    periode = setInterval(clignotementFading, 95);
+</script>
+
+<div id="jumbo">
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container" style="padding-bottom:10px;">
+            <h1 class="display-3 text-center">Le courtier adapté pour vous</h1>
+            <p class="text-danger text-center" id="LblClignotant">Faites confiance à AGENDA pour vous accompagner dans toutes les étapes de votre projet et trouver la meilleure solution de financement pour vous !</p>
+        </div>
+    </div>
+</div>
+@*vue partiel de la liste de rendez vous, sur la page d'accueil pour la secrétaire*@
+<div class="justify-content-center">
+   @Html.Action("ListAppointments", "Appointment")
+</div>

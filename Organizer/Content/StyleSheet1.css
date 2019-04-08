@@ -1,0 +1,55 @@
+﻿body {
+    background-image: url(http://www.meiritconsultancy.com/wp-content/uploads/2018/04/datacenter.gif);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+#datejour {
+    color: red;
+    text-align: center;
+    font-weight: 900
+}
+
+#jumbo {
+    padding-top: 50px;
+}
+
+.field-validation-error {
+    font-weight: bold;
+    color: red;
+    background-color: yellow;
+}
+
+.validation-summary-errors {
+    border: 2px dashed red;
+    color: red;
+    background-color: yellow;
+    font-weight: bold;
+    margin: 12px;
+}
+
+.active {
+    background-color: grey;
+}
+h2 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+/*les tableaux*/
+th {
+    text-align: center;
+    color: white;
+    background-color: deepskyblue;
+}
+td {
+    text-align: center;
+    color: white;
+}
+/*label des formulaire*/
+Label {
+    color: white;
+    font-size:larger;
+    text-transform: uppercase;
+}

@@ -1,0 +1,40 @@
+﻿@*@model List<Organizer.Models.Appointment>*@
+@*Modification de List en IPagedList pour la fonctionnalité de la pagination*@
+@model IPagedList<Organizer.Models.Appointment>
+@using PagedList;
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "ListAppointment";
+    Layout = null;
+}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h2 class="mb-4 bg-info p-3">Liste des rendez-vous</h2>
+            @Html.ActionLink("Ajouter rendez-vous", "AddAppointment", "Appointment", new { @class = "btn btn-outline-primary mb-2" })
+            <div class="table-responsive mt-3">
+                <table class="table table-hover table-bordered">
+                    <tr>
+                        <th>Date de rendez vous</th>
+                        <th>Objet du rendez vous</th>
+                        <th>Courtier</th>
+                        <th>Client</th>
+                        <th>Détail</th>
+                    </tr>
+                    @foreach (var appointment in Model)
+                    {
+                        <tr>
+                            <td>@appointment.DateHour</td>
+                            <td>@appointment.Subject</td>
+                            <td>@appointment.Broker.FullName</td>
+                            <td>@appointment.Customer.FullName</td>
+                            <td>@Html.ActionLink("Details", "DetailsAppointment", "Appointment", new { id = appointment.AppointmentID }, new { @class = "btn btn-default btn-outline-dark" })</td>
+                        </tr>
+                    }
+                </table>
+                @*Index, Home car c'est une view partiel dans la page d'accueil index, sinon sa aurait été "ListAppointment", "Appointment"*@
+                @Html.PagedListPager(Model, Page => Url.Action("Index", "Home", new { Page }))
+            </div>
+        </div>
+    </div>
+</div>

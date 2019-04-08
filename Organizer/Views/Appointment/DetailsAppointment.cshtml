@@ -1,0 +1,42 @@
+﻿@model Organizer.Models.Appointment
+@{
+    ViewBag.Title = "DetailsAppointment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container" style="padding-top: 5%;">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h2 class="text-center mb-4 bg-secondary text-white p-3">Détail du Rendez-Vous</h2>
+            @using (Html.BeginForm("DetailsAppointment", "Appointment"))
+            {
+                @Html.AntiForgeryToken()
+                @Html.HiddenFor(model => model.AppointmentID)
+                <div class="form-group">
+                    @Html.LabelFor(model => model.DateHour, new { @class = "col-md-10 control-label text-white" })
+                    @Html.EditorFor(model => model.DateHour, new { htmlAttributes = new { @class = "form-control", @id = "DateApp" } })
+                    @Html.ValidationMessageFor(model => model.DateHour)
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.BrokerID, "Courtier", htmlAttributes: new { @class = "col-md-10 control-label text-white" })
+                    @Html.DropDownList("BrokerID", null, htmlAttributes: new { @class = "custom-select" })
+                    @Html.ValidationMessageFor(model => model.BrokerID, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.CustomerID, "Client", htmlAttributes: new { @class = "col-md-10 control-label text-white" })
+                    @Html.DropDownList("CustomerID", null, htmlAttributes: new { @class = "custom-select" })
+                    @Html.ValidationMessageFor(model => model.CustomerID, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Subject, new { @class = "col-md-10 control-label text-white" })
+                    @Html.EditorFor(model => model.Subject, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Subject)
+                </div>
+                <div class="text-center">
+                <span>@Html.ActionLink("Modifier", "EditAppointment", "Appointment", new { id = @Html.DisplayFor(model => model.AppointmentID) }, new { @class = "btn btn-default btn-outline-success" })</span>
+                @Html.ActionLink("Supprimer", "DeleteAppointment", "Appointment", new { id = @Html.DisplayFor(model => model.AppointmentID) }, new { @class = "btn btn-default btn-outline-danger" })
+                </div>
+            }
+        </div>
+    </div>
+</div>

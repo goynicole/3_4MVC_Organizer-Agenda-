@@ -1,0 +1,524 @@
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\Organizer.dll.config
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\Organizer.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\Organizer.pdb
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\csc.exe
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\csc.exe.config
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\csc.rsp
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\csi.exe
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\csi.exe.config
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\csi.rsp
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.AppContext.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Console.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\vbc.exe
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\vbc.exe.config
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\vbc.rsp
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\EntityFramework.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\EntityFramework.SqlServer.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Helpers.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Mvc.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Razor.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Webpages.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\EntityFramework.xml
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\EntityFramework.SqlServer.xml
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Razor.xml
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Webpages.xml
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Helpers.xml
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\System.Web.Mvc.xml
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\obj\Debug\Organizer.csproj.CopyComplete
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\obj\Debug\Organizer.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\obj\Debug\Organizer.Migrations.First.resources
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Net.Http.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Moi\Documents\Organizer\Organizer\Organizer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Organizer\Organizer\bin\Organizer.dll.config
+E:\Organizer\Organizer\bin\Organizer.dll
+E:\Organizer\Organizer\bin\Organizer.pdb
+E:\Organizer\Organizer\bin\roslyn\csc.exe
+E:\Organizer\Organizer\bin\roslyn\csc.exe.config
+E:\Organizer\Organizer\bin\roslyn\csc.rsp
+E:\Organizer\Organizer\bin\roslyn\csi.exe
+E:\Organizer\Organizer\bin\roslyn\csi.exe.config
+E:\Organizer\Organizer\bin\roslyn\csi.rsp
+E:\Organizer\Organizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Organizer\Organizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Organizer\Organizer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Organizer\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Organizer\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Organizer\Organizer\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Organizer\Organizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Organizer\Organizer\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Organizer\Organizer\bin\roslyn\System.AppContext.dll
+E:\Organizer\Organizer\bin\roslyn\System.Collections.Immutable.dll
+E:\Organizer\Organizer\bin\roslyn\System.Console.dll
+E:\Organizer\Organizer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Organizer\Organizer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Organizer\Organizer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Organizer\Organizer\bin\roslyn\System.Globalization.Calendars.dll
+E:\Organizer\Organizer\bin\roslyn\System.IO.Compression.dll
+E:\Organizer\Organizer\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Organizer\Organizer\bin\roslyn\System.IO.FileSystem.dll
+E:\Organizer\Organizer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Organizer\Organizer\bin\roslyn\System.Net.Http.dll
+E:\Organizer\Organizer\bin\roslyn\System.Net.Sockets.dll
+E:\Organizer\Organizer\bin\roslyn\System.Reflection.Metadata.dll
+E:\Organizer\Organizer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Organizer\Organizer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Organizer\Organizer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Organizer\Organizer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Organizer\Organizer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Organizer\Organizer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Organizer\Organizer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Organizer\Organizer\bin\roslyn\System.ValueTuple.dll
+E:\Organizer\Organizer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Organizer\Organizer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Organizer\Organizer\bin\roslyn\System.Xml.XPath.dll
+E:\Organizer\Organizer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Organizer\Organizer\bin\roslyn\vbc.exe
+E:\Organizer\Organizer\bin\roslyn\vbc.exe.config
+E:\Organizer\Organizer\bin\roslyn\vbc.rsp
+E:\Organizer\Organizer\bin\roslyn\VBCSCompiler.exe
+E:\Organizer\Organizer\bin\roslyn\VBCSCompiler.exe.config
+E:\Organizer\Organizer\bin\EntityFramework.dll
+E:\Organizer\Organizer\bin\EntityFramework.SqlServer.dll
+E:\Organizer\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Organizer\Organizer\bin\Microsoft.Web.Infrastructure.dll
+E:\Organizer\Organizer\bin\System.Web.Helpers.dll
+E:\Organizer\Organizer\bin\System.Web.Mvc.dll
+E:\Organizer\Organizer\bin\System.Web.Razor.dll
+E:\Organizer\Organizer\bin\System.Web.WebPages.Deployment.dll
+E:\Organizer\Organizer\bin\System.Web.WebPages.dll
+E:\Organizer\Organizer\bin\System.Web.WebPages.Razor.dll
+E:\Organizer\Organizer\bin\EntityFramework.xml
+E:\Organizer\Organizer\bin\EntityFramework.SqlServer.xml
+E:\Organizer\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Organizer\Organizer\bin\System.Web.Helpers.xml
+E:\Organizer\Organizer\bin\System.Web.Mvc.xml
+E:\Organizer\Organizer\bin\System.Web.Razor.xml
+E:\Organizer\Organizer\bin\System.Web.WebPages.xml
+E:\Organizer\Organizer\bin\System.Web.WebPages.Deployment.xml
+E:\Organizer\Organizer\bin\System.Web.WebPages.Razor.xml
+E:\Organizer\Organizer\bin\fr\System.Web.Helpers.resources.dll
+E:\Organizer\Organizer\bin\fr\System.Web.Mvc.resources.dll
+E:\Organizer\Organizer\bin\fr\System.Web.Razor.resources.dll
+E:\Organizer\Organizer\bin\fr\System.Web.WebPages.resources.dll
+E:\Organizer\Organizer\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\Organizer\Organizer\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+E:\Organizer\Organizer\obj\Debug\Organizer.Migrations.First.resources
+E:\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+E:\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+E:\Organizer\Organizer\obj\Debug\Organizer.csproj.CopyComplete
+E:\Organizer\Organizer\obj\Debug\Organizer.dll
+E:\Organizer\Organizer\obj\Debug\Organizer.pdb
+E:\Organizer\Organizer\bin\PagedList.dll
+E:\Organizer\Organizer\bin\PagedList.Mvc.dll
+E:\Organizer\Organizer\bin\PagedList.xml
+E:\Organizer\Organizer\bin\PagedList.Mvc.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\Organizer.dll.config
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\Organizer.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\Organizer.pdb
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csc.exe
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csc.exe.config
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csc.rsp
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csi.exe
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csi.exe.config
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csi.rsp
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.Managed.Core.targets
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.AppContext.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Collections.Immutable.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Console.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Globalization.Calendars.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.Compression.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.FileSystem.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Net.Http.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Net.Sockets.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Reflection.Metadata.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.ValueTuple.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.XPath.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\vbc.exe
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\vbc.exe.config
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\vbc.rsp
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\VBCSCompiler.exe
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\VBCSCompiler.exe.config
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.SqlServer.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\Microsoft.Web.Infrastructure.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.Mvc.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Helpers.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Mvc.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Razor.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Deployment.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Razor.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.SqlServer.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.Mvc.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Helpers.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Mvc.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Razor.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Deployment.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Razor.xml
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.Helpers.resources.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.Mvc.resources.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.Razor.resources.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.WebPages.resources.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+E:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.Migrations.First.resources
+E:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+E:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+E:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csproj.CopyComplete
+E:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.dll
+E:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.pdb
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\Organizer.dll.config
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\Organizer.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\Organizer.pdb
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csc.exe
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csc.exe.config
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csc.rsp
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csi.exe
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csi.exe.config
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csi.rsp
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.Managed.Core.targets
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.AppContext.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Collections.Immutable.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Console.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Globalization.Calendars.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.Compression.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.FileSystem.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Net.Http.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Net.Sockets.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Reflection.Metadata.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.ValueTuple.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.XmlDocument.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.XPath.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\vbc.exe
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\vbc.exe.config
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\vbc.rsp
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\VBCSCompiler.exe
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\VBCSCompiler.exe.config
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.SqlServer.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\Microsoft.Web.Infrastructure.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.Mvc.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Helpers.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Mvc.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Razor.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Deployment.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Razor.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.SqlServer.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.Mvc.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Helpers.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Mvc.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Razor.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Deployment.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Razor.xml
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.Helpers.resources.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.Mvc.resources.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.Razor.resources.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.WebPages.resources.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.WebPages.Deployment.resources.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.WebPages.Razor.resources.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+F:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.Migrations.First.resources
+F:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+F:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+F:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csproj.CopyComplete
+F:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.dll
+F:\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\Organizer.dll.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\Organizer.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\Organizer.pdb
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csc.exe
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csc.exe.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csc.rsp
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csi.exe
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csi.exe.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\csi.rsp
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.AppContext.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Console.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Net.Http.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\vbc.exe
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\vbc.exe.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\vbc.rsp
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.Mvc.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Helpers.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Mvc.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Razor.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\PagedList.Mvc.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Helpers.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Mvc.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.Razor.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.Migrations.First.resources
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.csproj.CopyComplete
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\Organizer.dll.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\Organizer.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\Organizer.pdb
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\csc.exe
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\csc.exe.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\csc.rsp
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\csi.exe
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\csi.exe.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\csi.rsp
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.AppContext.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Console.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Net.Http.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\vbc.exe
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\vbc.exe.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\vbc.rsp
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\EntityFramework.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\PagedList.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\PagedList.Mvc.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.Helpers.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.Mvc.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.Razor.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.WebPages.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\EntityFramework.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\PagedList.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\PagedList.Mvc.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.Helpers.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.Mvc.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.Razor.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.WebPages.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\obj\Debug\Organizer.Migrations.First.resources
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\obj\Debug\Organizer.csproj.CopyComplete
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\obj\Debug\Organizer.dll
+C:\Users\Home\Desktop\3_4MVC_Organizer(Agenda)original pas push dessus\Organizer\obj\Debug\Organizer.pdb
