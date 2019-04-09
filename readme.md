@@ -101,5 +101,5 @@ Depuis la page **index** permettre la suppression d'un rendez-vous.
 ## Exercice 16 (bonus)  
 Dans la page **listCustomers** ajouter un champ de recherche permettant à la secrétaire du cabinet de courtiers de retrouver plus rapidement un client.  
 
-## Exercice 17 (bonus)  
+## Exercice 17 (bonus).  
 Créer une pagination dans la page **listCustomers**.
