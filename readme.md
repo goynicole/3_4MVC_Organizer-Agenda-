@@ -4,7 +4,7 @@
 *Attention : penser à soigner le style de votre application.*  
 
 ## Exercice 1  
-Créer le MCD de l'Agenda.  
+Créer le MCD de l'Agenda  
 Il doit contenir 3 tables.  
 1. Table **brokers** contenant les éléments suivants :  
 
